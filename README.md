@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend and Web Developer** wi
 - **Phone:** +91 6289974065
 
 ## 🌐 Portfolio Website
-Check out my portfolio website showcasing my work, projects, and contributions to the tech world. [biplab-naskar-portfolio-web.vercel.app](https://biplab-naskar-portfolio-web.vercel.app/#home)
+Check out my portfolio website showcasing my work, projects, and contributions to the tech world. [visit here](https://biplab-naskar-portfolio-web.vercel.app/#home)
 
 ## 🏫 Education
 - **Bachelor of Technology** - Electrical Engineering  
