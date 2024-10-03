@@ -11,21 +11,8 @@ Welcome to my GitHub profile! I'm a passionate **Frontend and Web Developer** wi
 ## 🌐 Portfolio Website
 Check out my portfolio website showcasing my work, projects, and contributions to the tech world. [visit here](https://biplab-naskar-portfolio-web.vercel.app/#home)
 
-## 🏫 Education
-- **Bachelor of Technology** - Electrical Engineering  
-  *Netaji Subhash Engineering College (2019-2023)*  
-  CGPA: **8.44**
-
-- **Higher Secondary Education**  
-  *Jagadbandhu Institution (2017-2019)*  
-  Percentage: **75%**
-
-- **Secondary Education**  
-  *Jagadbandhu Institution (2006-2017)*  
-  Percentage: **70%**
-
 ## 🚀 Projects
-### 1. [Foodify - MERN Stack Project](#)
+### 1. [Foodify - MERN Stack Project](https://foodify-frontend-tjby.onrender.com/)
 - Full-stack web application for online food ordering.
 - Integrated Razorpay for secure payment processing.
 - Built a responsive UI with React and a backend using Node.js, Express, and MongoDB.
@@ -34,7 +21,7 @@ Check out my portfolio website showcasing my work, projects, and contributions t
 - A React Native food recipe app featuring interactive UI.
 - Utilized MealDB API, TailwindCSS, and @react-native-seoul/masonry-list for a Pinterest-style grid.
 
-### 3. [Mahavidya Website](#)
+### 3. [Mahavidya Website](https://mahavidyas.vercel.app/)
 - A spiritual website on the ten Mahavidyas using HTML, CSS, JavaScript, and JSON.
 - Implemented a dropdown menu linking to detailed pages for each goddess.
 
@@ -42,7 +29,7 @@ Check out my portfolio website showcasing my work, projects, and contributions t
 - A fitness app offering workout routines and exercise details.
 - Integrated React Native Reanimated for animations and Expo Router for seamless navigation.
 
-### 5. [Bubble Game](#)
+### 5. [Bubble Game](https://bubble-game-zeta-six.vercel.app/)
 - Developed a dynamic bubble game with animated visuals using HTML, CSS, and JavaScript.
 - Included a score-tracking system and real-time bubble interaction detection.
 
@@ -62,13 +49,7 @@ Check out my portfolio website showcasing my work, projects, and contributions t
 - **OOPs in C++**
 - **SQL**
 
-## 🏢 Organizations
-- **Rotaract Club Of Calcutta Diamond**  
-  I participated in community service and leadership development projects addressing social issues, education, health, and environmental sustainability.
-
-## 🎸 Interests
-- **Guitar**
-- **Cricket**
+ 
 
 Thank you for visiting my profile! Feel free to connect with me on LinkedIn or check out my portfolio to see my work.
 
